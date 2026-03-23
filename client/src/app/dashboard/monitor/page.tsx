@@ -51,8 +51,8 @@ export default function CropMonitorPage() {
     const [imagePreview, setImagePreview] = useState<string | null>(null);
     const [cropType, setCropType] = useState('Tomato');
     const fileInputRef = useRef<HTMLInputElement>(null);
-    const setCurrentAnalysis = useFarmStore((s) => s.setCurrentAnalysis);
-    const setPipeline = useFarmStore((s) => s.setPipeline);
+    const setCurrentAnalysis = useFarmStore((s: any) => s.setCurrentAnalysis);
+    const setPipeline = useFarmStore((s: any) => s.setPipeline);
 
     const handleFileChange = (e: React.ChangeEvent<HTMLInputElement>) => {
         const file = e.target.files?.[0];

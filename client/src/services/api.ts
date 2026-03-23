@@ -22,8 +22,8 @@ api.interceptors.request.use((config: any) => {
 });
 
 api.interceptors.response.use(
-  (response) => response,
-  (error) => {
+  (response: any) => response,
+  (error: any) => {
     const message = error.response?.data?.message || error.message || "Request failed";
     return Promise.reject(new Error(message));
   }

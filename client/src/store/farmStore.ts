@@ -35,19 +35,19 @@ export const useFarmStore = create<FarmState>()(
   persist(
     (set) => ({
       ...initialState,
-      setCurrentAnalysis: (value) => set({ currentAnalysis: value }),
-      setFieldSnapshot: (value) => set({ fieldSnapshot: value }),
-      setPipeline: (value) =>
+      setCurrentAnalysis: (value: AnyObj) => set({ currentAnalysis: value }),
+      setFieldSnapshot: (value: AnyObj) => set({ fieldSnapshot: value }),
+      setPipeline: (value: AnyObj) =>
         set({
-          fieldSnapshot: value?.fieldContext ?? null,
-          currentAnalysis: value?.cropAnalysis ?? null,
-          yieldPrediction: value?.yieldPrediction ?? null,
-          diseaseRisk: value?.disease ?? null,
-          irrigationAdvice: value?.irrigation ?? null,
-          harvestPlan: value?.harvest ?? null,
-          storageAdvice: value?.storage ?? null,
-          marketRecommendation: value?.market ?? null,
-          profitSimulation: value?.profit ?? null
+          fieldSnapshot: (value as any)?.fieldContext ?? null,
+          currentAnalysis: (value as any)?.cropAnalysis ?? null,
+          yieldPrediction: (value as any)?.yieldPrediction ?? null,
+          diseaseRisk: (value as any)?.disease ?? null,
+          irrigationAdvice: (value as any)?.irrigation ?? null,
+          harvestPlan: (value as any)?.harvest ?? null,
+          storageAdvice: (value as any)?.storage ?? null,
+          marketRecommendation: (value as any)?.market ?? null,
+          profitSimulation: (value as any)?.profit ?? null
         }),
       resetFarm: () => set({ ...initialState })
     }),
