@@ -1,0 +1,48 @@
+
+> client@0.0.0 dev
+> vite --host
+
+
+  [32m[1mVITE[22m v7.3.1[39m  [2mready in [0m[1m359[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.130.1:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.122.1:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://10.106.69.1:[1m5173[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m2:38:22 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/app/dashboard/market/page.tsx, /src/app/dashboard/yield/page.tsx, /src/app/dashboard/report/page.tsx, /src/app/dashboard/irrigation/page.tsx, /src/app/dashboard/page.tsx, /src/app/dashboard/disease/page.tsx, /src/app/dashboard/advisor/page.tsx, /src/app/dashboard/monitor/page.tsx, /src/app/dashboard/harvest/page.tsx, /src/app/dashboard/storage/page.tsx, /src/app/dashboard/profit/page.tsx, /src/components/agrivision/dashboard.tsx, /src/components/agrivision/chat-tab.tsx, /src/components/agrivision/market-tab.tsx[22m
+[2m2:38:22 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/app/dashboard/market/page.tsx, /src/app/dashboard/yield/page.tsx, /src/app/dashboard/report/page.tsx, /src/app/dashboard/irrigation/page.tsx, /src/app/dashboard/page.tsx, /src/app/dashboard/disease/page.tsx, /src/app/dashboard/advisor/page.tsx, /src/app/dashboard/monitor/page.tsx, /src/app/dashboard/harvest/page.tsx, /src/app/dashboard/storage/page.tsx, /src/app/dashboard/profit/page.tsx, /src/components/agrivision/dashboard.tsx, /src/components/agrivision/chat-tab.tsx, /src/components/agrivision/market-tab.tsx[22m
+[2m2:38:23 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:38:23 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/agrivision/dashboard.tsx, /src/index.css[22m
+[2m2:38:26 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:38:26 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:38:28 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:38:29 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:38:29 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:38:29 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:38:29 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:45:59 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/app/dashboard/market/page.tsx, /src/app/dashboard/yield/page.tsx, /src/app/dashboard/report/page.tsx, /src/app/dashboard/irrigation/page.tsx, /src/app/dashboard/page.tsx, /src/app/dashboard/disease/page.tsx, /src/app/dashboard/advisor/page.tsx, /src/app/dashboard/monitor/page.tsx, /src/app/dashboard/harvest/page.tsx, /src/app/dashboard/storage/page.tsx, /src/app/dashboard/profit/page.tsx, /src/components/agrivision/dashboard.tsx, /src/components/agrivision/chat-tab.tsx, /src/components/agrivision/market-tab.tsx[22m
+[2m2:45:59 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:45:59 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:45:59 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:45:59 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:45:59 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:56:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/app/dashboard/market/page.tsx, /src/app/dashboard/yield/page.tsx, /src/app/dashboard/report/page.tsx, /src/app/dashboard/irrigation/page.tsx, /src/app/dashboard/page.tsx, /src/app/dashboard/disease/page.tsx, /src/app/dashboard/advisor/page.tsx, /src/app/dashboard/monitor/page.tsx, /src/app/dashboard/harvest/page.tsx, /src/app/dashboard/storage/page.tsx, /src/app/dashboard/profit/page.tsx, /src/components/agrivision/dashboard.tsx, /src/components/agrivision/chat-tab.tsx, /src/components/agrivision/market-tab.tsx[22m
+[2m2:56:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:56:34 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:56:35 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:56:35 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:56:35 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:56:35 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:56:35 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:56:35 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:56:35 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:56:35 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:56:35 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:56:36 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:56:36 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:56:36 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:56:36 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:56:36 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:56:36 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m2:56:36 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css[22m
