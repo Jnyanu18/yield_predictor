@@ -8,7 +8,16 @@ export default defineConfig({
     alias: {
       "@": path.resolve(__dirname, "./src"),
       react: path.resolve('./node_modules/react'),
-      'react-dom': path.resolve('./node_modules/react-dom')
+      'react-dom': path.resolve('./node_modules/react-dom'),
+      'react-is': path.resolve('./node_modules/react-is'),
+    },
+  },
+  optimizeDeps: {
+    include: ['react-is', 'recharts'],
+  },
+  build: {
+    commonjsOptions: {
+      include: [/react-is/, /recharts/, /node_modules/],
     },
   },
   server: {
