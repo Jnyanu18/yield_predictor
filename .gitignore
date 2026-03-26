@@ -40,6 +40,9 @@ pnpm-debug.log*
 .env.production.local
 .env
 
+# Vercel import file (contains secrets)
+vercel-env-import.env
+
 # Vercel
 .vercel
 
