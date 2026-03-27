@@ -8,7 +8,6 @@ import React from 'react';
 import { Providers } from '@/app/providers';
 
 // Pages
-import DashboardPage from '@/app/dashboard/page';
 import MonitorPage from '@/app/dashboard/monitor/page';
 import YieldPage from '@/app/dashboard/yield/page';
 import DiseasePage from '@/app/dashboard/disease/page';
